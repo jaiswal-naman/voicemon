@@ -4,6 +4,12 @@
 
 VoiceMon implements the [4-Layer Voice Observability Framework](https://www.hamming.ai/blog/voice-agent-observability) to give you full-stack monitoring of voice agents built on LiveKit, Pipecat, or Vapi — from network jitter to task completion.
 
+> **📚 New to VoiceMon?** Check out our comprehensive documentation:
+> - **[DOCUMENTATION_INDEX.md](./DOCUMENTATION_INDEX.md)** - Start here! Navigation guide to all docs
+> - **[ARCHITECTURE_GUIDE.md](./ARCHITECTURE_GUIDE.md)** - Complete technical deep-dive (HLD/LLD)
+> - **[VISUAL_ARCHITECTURE.md](./VISUAL_ARCHITECTURE.md)** - 15 ASCII diagrams explaining the system
+> - **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - API reference, examples, troubleshooting
+
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                          YOUR VOICE AGENT                          │
