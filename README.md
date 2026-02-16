@@ -36,6 +36,12 @@ VoiceMon implements the [4-Layer Voice Observability Framework](https://www.hamm
 | **L3: User Experience** | Perceived quality | E2E latency, interruptions, silence ratio, TTFW |
 | **L4: Outcome** | Business results | Task success, CSAT, resolution type, cost |
 
+## 📚 Documentation
+
+- **[DOCUMENTATION_SUMMARY.md](DOCUMENTATION_SUMMARY.md)** — Quick reference guide with key concepts
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** — Complete High-Level and Low-Level Design (HLD/LLD)
+- **[SYSTEM_DESIGN.md](SYSTEM_DESIGN.md)** — System design, data flows, and deployment patterns
+
 ## Quick Start
 
 ### Install
